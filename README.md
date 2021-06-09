@@ -1,2 +1,1 @@
-# practice
-assignment
+Initial commit on github
